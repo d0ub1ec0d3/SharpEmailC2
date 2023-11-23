@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpEmailC2", "SharpEmailC2\SharpEmailC2.csproj", "{69ECAD09-6392-43EB-9AA0-AB8F66B9B60E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69ECAD09-6392-43EB-9AA0-AB8F66B9B60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ECAD09-6392-43EB-9AA0-AB8F66B9B60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ECAD09-6392-43EB-9AA0-AB8F66B9B60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ECAD09-6392-43EB-9AA0-AB8F66B9B60E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89867FFF-84F0-4FCF-8E19-E6F2A3B3E117}
+	EndGlobalSection
+EndGlobal
