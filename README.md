@@ -21,7 +21,9 @@ SharpEmailC2是一个基于IMAP协议的C2工具。工具通过草稿箱进行�
 
 # 演示视频
 
-<video src="video.mov" />
+![video](video.gif)
+
+
 
 # 注意事项
 
